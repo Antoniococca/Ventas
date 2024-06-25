@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Compra y Venta de Autos</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Compra y Venta de Autos</h1>
+            <div class="social-icons">
+                <a href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram"></i></a>
+                <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook"></i></a>
+            </div>
+        </div>
+    </header>
+    <main>
+        <div class="hero">
+            <h2>Compra y vende el auto al mejor precio</h2>
+        </div>
+        <div class="cards-container">
+            <div class="card">
+                <img src="auto1.jpg" alt="Auto 1">
+                <div class="card-info">
+                    <h3>Modelo: Auto 1</h3>
+                    <p>Precio: $20,000</p>
+                    <p>Status: Por venderse</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="auto2.jpg" alt="Auto 2">
+                <div class="card-info">
+                    <h3>Modelo: Auto 2</h3>
+                    <p>Precio: $25,000</p>
+                    <p>Status: Vendido</p>
+                </div>
+            </div>
+            <div class="card">
+                <img src="auto3.jpg" alt="Auto 3">
+                <div class="card-info">
+                    <h3>Modelo: Auto 3</h3>
+                    <p>Precio: $22,000</p>
+                    <p>Status: Por venderse</p>
+                </div>
+            </div>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>Contacto: info@compra-venta-autos.com</p>
+            <p>Teléfono: (123) 456-7890</p>
+        </div>
+    </footer>
+</body>
+</html>
